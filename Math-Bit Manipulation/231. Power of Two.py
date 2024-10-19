@@ -1,5 +1,4 @@
 def isPowerOfTwo(n):
-    # Base Case
     if n <= 0:
         return False
     x = 1
