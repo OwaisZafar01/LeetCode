@@ -5,10 +5,10 @@
 <h2>📂 Categories</h2>
 
 <ul>
-    <li><strong>Array & Hashmap</strong> - Two Sum, etc.</li>
-    <li><strong>Binary Search</strong> - Find Minimum in Rotated Sorted Array</li>
-    <li><strong>Linked List</strong> - Remove Duplicates from Sorted List</li>
-    <li><strong>Math & Bit Manipulation</strong> - Number Complement</li>
-    <li><strong>Stack & Queue</strong> - Build an Array With Stack Operations</li>
+    <li><strong>Array & Hashmap</strong> </li>
+    <li><strong>Binary Search</strong> </li>
+    <li><strong>Linked List</strong> </li>
+    <li><strong>Math & Bit Manipulation</strong></li>
+    <li><strong>Stack & Queue</strong> </li>
   
 </ul>
