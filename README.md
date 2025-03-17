@@ -1,6 +1,7 @@
+
 <h1>LeetCode Solutions 🚀</h1>
 
-<p>This repository contains my solutions to various LeetCode problems, categorized by topic. Each solution is implemented in Python with a focus on readability and efficiency.</p>
+<p>This repository contains my solutions to various <strong>Leetcode</strong> problems, categorized by topic. Each solution is implemented in Python with a focus on readability and efficiency.</p>
 
 <h2>📂 Categories</h2>
 
@@ -12,3 +13,8 @@
     <li><strong>Stack & Queue</strong> </li>
   
 </ul>
+
+<h2>🚀 How to Use</h2>
+<p>You can explore the solutions by navigating to the respective category folders. Each file contains the solution to a LeetCode problem.</p>
+
+<strong>⭐ Feel free to explore, learn, and contribute! Happy coding! 🚀</strong>
