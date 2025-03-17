@@ -1,7 +1,7 @@
 
 <h1>LeetCode Solutions 🚀</h1>
 
-<p>This repository contains my solutions to various <strong>Leetcode</strong> problems, categorized by topic. Each solution is implemented in Python with a focus on readability and efficiency.</p>
+<p>This repository contains my solutions to various <strong>Leetcode</strong> problems, categorized by topic. Each solution is implemented in <strong>Python</strong>with a focus on <strong>readability</strong> and <strong>efficiency</strong>.</p>
 
 <h2>📂 Categories</h2>
 
